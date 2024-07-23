@@ -1,0 +1,3 @@
+ r = ceil(255.*rand(361*576,1));  % 255 is the max, 1 is min and 361*576 is the numbers of random
+ R=reshape(r,[361,576]); % reshape to 361*576
+
